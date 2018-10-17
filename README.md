@@ -1,5 +1,7 @@
 # DevCamp Portfolio
 
+Do not under any circumstance commit the config/master.key file 
+
 This README would normally document whatever steps are necessary to get the
 application up and running.
 
